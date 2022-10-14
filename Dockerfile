@@ -1,4 +1,4 @@
-FROM cupcakearmy/autorestic:1.7
+FROM cupcakearmy/autorestic:1.7.3
 
 LABEL org.opencontainers.image.source=https://github.com/wgraba/autorestic-docker
 LABEL org.opencontainers.image.description="Custom Docker image incorporating home lab needs; based on cupcakearmy/autorestic"
