@@ -12,8 +12,9 @@ Images are published to [Docker Hub](https://hub.docker.com/r/wgraba/autorestic)
 `docker build .`
 
 ## Publishing
-Images are automatically published using GitHub Actions. Tags follow `cupcakearmy/autorestic`
-tag scheme which is based on autorestic versions.
+Images are automatically published using GitHub Actions. 
+Tags are based on `cupcakearmy/autorestic` tag scheme which is based on 
+autorestic versions.
 
 ## TODO
-- [ ] Publish to Docker Hub using Github Actions
+- [x] Publish to Docker Hub using Github Actions
