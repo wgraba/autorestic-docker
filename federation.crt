@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            e1:f7:05:d1:b7:af:0e:f1:0e:08:c3:fb:ac:ad:8e:9f
+        Signature Algorithm: ecdsa-with-SHA512
+        Issuer: CN=Graba Federation CA
+        Validity
+            Not Before: Mar  7 23:29:59 2021 GMT
+            Not After : Feb 20 23:29:59 2024 GMT
+        Subject: C=US, ST=Colorado, L=Denver, O=Graba Federation, OU=IT, CN=*.federation.home/emailAddress=wesley.graba@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:8c:1c:b9:29:d8:bc:b4:78:cc:96:ac:f3:fb:df:
+                    ea:b7:90:5d:d4:9c:0e:ca:87:cf:e3:d3:39:a8:3f:
+                    e7:ff:02:27:04:05:ad:70:88:10:c3:4f:be:64:74:
+                    53:49:e2:27:6b:70:fc:59:5d:9e:3e:72:82:e0:8f:
+                    5d:a9:c1:bb:0d:84:51:ca:42:dd:54:b5:d3:42:4c:
+                    f9:c3:0e:88:4d:5a:40:68:af:73:62:fe:22:b2:86:
+                    02:a4:0d:6a:60:17:7c
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                7E:50:EF:18:AF:94:A2:F2:37:50:0D:21:1D:E4:BD:3B:D6:E9:0F:D0
+            X509v3 Authority Key Identifier: 
+                keyid:6A:F5:5A:B5:DB:65:95:CF:3A:DD:90:AB:C5:69:F9:96:1D:1C:09:D6
+                DirName:/CN=Graba Federation CA
+                serial:34:99:EE:86:39:E7:43:2F:A8:04:D5:36:96:87:26:86:C8:F2:9E:5E
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:*.federation.home
+    Signature Algorithm: ecdsa-with-SHA512
+         30:65:02:31:00:da:2c:95:52:89:e4:87:d2:b7:ba:48:08:05:
+         30:d3:58:5d:33:b8:e2:c5:18:1f:81:ca:83:d8:98:c8:55:76:
+         99:c6:26:d6:7d:4b:50:1d:b1:34:b9:b8:e1:29:0f:5e:6f:02:
+         30:1f:46:07:70:b0:44:c6:e1:19:0b:66:c1:7e:64:48:1e:ba:
+         4d:ff:82:af:6d:e7:89:c4:c6:f9:be:b8:61:4d:a0:76:02:69:
+         e7:43:e4:00:31:11:80:3b:64:91:5f:60:2b
+-----BEGIN CERTIFICATE-----
+MIICwDCCAkagAwIBAgIRAOH3BdG3rw7xDgjD+6ytjp8wCgYIKoZIzj0EAwQwHjEc
+MBoGA1UEAwwTR3JhYmEgRmVkZXJhdGlvbiBDQTAeFw0yMTAzMDcyMzI5NTlaFw0y
+NDAyMjAyMzI5NTlaMIGcMQswCQYDVQQGEwJVUzERMA8GA1UECAwIQ29sb3JhZG8x
+DzANBgNVBAcMBkRlbnZlcjEZMBcGA1UECgwQR3JhYmEgRmVkZXJhdGlvbjELMAkG
+A1UECwwCSVQxGjAYBgNVBAMMESouZmVkZXJhdGlvbi5ob21lMSUwIwYJKoZIhvcN
+AQkBFhZ3ZXNsZXkuZ3JhYmFAZ21haWwuY29tMHYwEAYHKoZIzj0CAQYFK4EEACID
+YgAEjBy5Kdi8tHjMlqzz+9/qt5Bd1JwOyofP49M5qD/n/wInBAWtcIgQw0++ZHRT
+SeIna3D8WV2ePnKC4I9dqcG7DYRRykLdVLXTQkz5ww6ITVpAaK9zYv4isoYCpA1q
+YBd8o4HIMIHFMAkGA1UdEwQCMAAwHQYDVR0OBBYEFH5Q7xivlKLyN1ANIR3kvTvW
+6Q/QMFkGA1UdIwRSMFCAFGr1WrXbZZXPOt2Qq8Vp+ZYdHAnWoSKkIDAeMRwwGgYD
+VQQDDBNHcmFiYSBGZWRlcmF0aW9uIENBghQ0me6GOedDL6gE1TaWhyaGyPKeXjAT
+BgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwHAYDVR0RBBUwE4IRKi5m
+ZWRlcmF0aW9uLmhvbWUwCgYIKoZIzj0EAwQDaAAwZQIxANoslVKJ5IfSt7pICAUw
+01hdM7jixRgfgcqD2JjIVXaZxibWfUtQHbE0ubjhKQ9ebwIwH0YHcLBExuEZC2bB
+fmRIHrpN/4KvbeeJxMb5vrhhTaB2AmnnQ+QAMRGAO2SRX2Ar
+-----END CERTIFICATE-----
