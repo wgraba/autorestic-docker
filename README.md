@@ -9,7 +9,7 @@ Based on [cupcakearmy/autorestic](https://hub.docker.com/r/cupcakearmy/autoresti
 Images are published to [Docker Hub](https://hub.docker.com/r/wgraba/autorestic).
 
 ## Building
-`docker build .`
+`docker build . --tag=<tag_name>`
 
 ## Publishing
 Images are automatically published using GitHub Actions. 
